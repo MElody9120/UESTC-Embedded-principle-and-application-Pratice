@@ -11,8 +11,8 @@
 2. ~~自由飞翔，大概只记得这些了~~
 3. 基于C语言
 
-试验成果：
-1. 实现了基于NUC951板子的**计算器**开发
-2. 初步实现了加减乘除四则混合运算基本功能:heavy_check_mark: 
-3. 初步实现了计算器清零功能:heavy_check_mark:
-4. 初步美化了计算器图形界面——基于Win10计算器:heavy_check_mark:
+试验成果 TODO LIST：
+1. 基于NUC951板子的**计算器**开发:heavy_check_mark:
+2. 加减乘除四则混合运算基本功能:heavy_check_mark: 
+3. 计算器清零功能:heavy_check_mark:
+4. 美化计算器图形界面——基于Win10计算器风格:heavy_check_mark:
